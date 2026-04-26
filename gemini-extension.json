@@ -1,0 +1,17 @@
+{
+  "name": "valency",
+  "version": "1.0.0",
+  "description": "Search and analyze scientific papers from arXiv, bioRxiv, medRxiv, and PubMed via the Valency research platform.",
+  "mcpServers": {
+    "valency": {
+      "httpUrl": "https://labs.valency.io/mcp",
+      "authProviderType": "dynamic_discovery",
+      "oauth": {
+        "enabled": true,
+        "clientId": "FslW0nVE1JMNobe1wQEsTr7bIwhZTi89",
+        "redirectUri": "http://localhost:33418/oauth/callback"
+      }
+    }
+  },
+  "contextFileName": "VALENCY.md"
+}
