@@ -5,7 +5,7 @@ A Gemini CLI extension that connects to the [Valency](https://app.valency.io) MC
 ## Install
 
 ```
-gemini extensions install https://github.com/valencyio/valency-gemini-extension
+gemini extensions install https://github.com/valencyio/valency-gemini-extension --autoupdate
 ```
 
 ## Authenticate
