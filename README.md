@@ -5,7 +5,8 @@ A Gemini CLI extension that connects to the [Valency](https://app.valency.io) MC
 ## Install
 
 ```
-gemini extensions install https://github.com/valencyio/valency-gemini-extension --autoupdate
+# update to the latest version. In Mac: brew update gemini-cli
+gemini extensions install https://github.com/valency-oss/valency-gemini-extension --auto-update
 ```
 
 ## Authenticate
