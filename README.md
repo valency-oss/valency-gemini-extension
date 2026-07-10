@@ -62,7 +62,7 @@ If you're on a corp-locked machine or otherwise can't use the extensions system,
       "authProviderType": "dynamic_discovery",
       "oauth": {
         "enabled": true,
-        "clientId": "FslW0nVE1JMNobe1wQEsTr7bIwhZTi89",
+        "clientId": "I79Au33SE0lkwFXN",
         "redirectUri": "http://localhost:33418/oauth/callback"
       }
     }
