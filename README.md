@@ -1,3 +1,12 @@
+> [!WARNING]
+> **Deprecated.** This repository is archived and no longer updated. Google retired Gemini CLI for free and Google AI Pro/Ultra accounts in favour of [Antigravity CLI](https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/). Valency Bond for Antigravity CLI ships from [valency-oss/valency-connectors](https://github.com/valency-oss/valency-connectors):
+>
+> ```bash
+> agy plugin install https://github.com/valency-oss/valency-connectors
+> ```
+>
+> Then open Antigravity's `/mcp` manager, select `valency`, and complete the browser sign-in.
+
 # Valency Gemini CLI Extension
 
 A Gemini CLI extension that connects to the [Valency](https://app.valency.io) MCP server, giving Gemini direct access to scientific papers from arXiv, bioRxiv, medRxiv, and PubMed.
